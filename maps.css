@@ -1,0 +1,17 @@
+#map{
+  
+    height: 500px;
+    width: 500px;
+    border-radius: 2%;
+    margin: auto;
+    width: 50%;
+    border: 30px solid rgb(2, 2, 2);
+    padding: 10px;
+  }
+
+  h1{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+  }
+
